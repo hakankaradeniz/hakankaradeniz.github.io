@@ -80,15 +80,6 @@
     text-align: center;
 }
 
-.center h2{
-    color: #f3f3f3;
-    font-size: 40px;
-    font-weight: bold;
-    width: 900px;
-    text-align: center;
-    margin-top: 20px;
-}
-
 .center .buttons{
     float: right;
     margin-right: 300px ;
