@@ -9,7 +9,7 @@
 .container{
     background: url(wallpaper.jpg);
     height: 100vh;
-    background-size: auto;
+    background-size: 100% 100%;
 }
 
 .container .navbar{
@@ -46,8 +46,8 @@
 .navbar ul li a{
     color: white;
     text-decoration: double;
-    font-size: 20px;
-    padding: 6px 13px;
+    font-size: 20%;
+    padding: 6% 13%;
     font-family: 'Roboto', sans-serif;
     transition: 0.5s;
 }
